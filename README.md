@@ -39,4 +39,7 @@ Hello, my name is marco aurelio balduino de souza and I'm currently 22 years old
 
 ### Contact
 
-[Email](mabdsouza@outlook.com)
+[Linkedin](https://www.linkedin.com/in/marcoaureliobalduinodesouza/)
+
+[GitHub](https://github.com/MarcoABsouza)
+
