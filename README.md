@@ -16,5 +16,6 @@
 
 ### Projects
 **Development of a banking system in python**
+
 [Publication](https://github.com/MarcoABsouza/desafio-sistema-bancario/tree/main)
 
