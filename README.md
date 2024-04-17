@@ -28,3 +28,8 @@ To develop this project, I had to build the basic functionality of a bank. I use
 [Publication](https://github.com/MarcoABsouza/E-commerce-Logical-SGBD)
 
 This project consists of creating a database for an e-commerce system using MySQL. The database is designed to store information about customers, suppliers, products, orders and payments, as well as managing the relationship between these entities.
+
+### Languages
+**English (Intermediate)**
+**Portugues (Native)**
+
