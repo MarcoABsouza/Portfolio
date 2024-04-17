@@ -20,3 +20,9 @@
 [Publication](https://github.com/MarcoABsouza/desafio-sistema-bancario/tree/main)
 
 To develop this project, I had to build the basic functionality of a bank. I used knowledge of the fundamentals of Python programming, such as data structures and object-oriented programming.
+
+**Database for e-commerce**
+
+[Publication](https://github.com/MarcoABsouza/E-commerce-Logical-SGBD)
+
+This project consists of creating a database for an e-commerce system using MySQL. The database is designed to store information about customers, suppliers, products, orders and payments, as well as managing the relationship between these entities.
