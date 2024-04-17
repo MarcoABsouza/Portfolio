@@ -4,10 +4,10 @@
 
 ### Education
 
- - Bachelor, Computer Science | Universidade Federal de Catalão
- - Course, Programming Logic | Digital Innovation One
- - Course, Python Developer | Digital Innovation One
- - Course, Fundamentals of Artificial Intelligence | Digital Innovation One
+ - Bachelor, Computer Science | Universidade Federal de Catalão (2020 - Present)
+ - Course, Programming Logic | Digital Innovation One (February 2024 - March 2024)
+ - Course, Python Developer | Digital Innovation One (February 2024 - March 2024)
+ - Course, Fundamentals of Artificial Intelligence | Digital Innovation One (February 2024 - March 2024)
    
 ### Work Experience
 
@@ -35,7 +35,7 @@ This project consists of creating a database for an e-commerce system using MySQ
 
 ### About Me
 
-Hello, my name is marco aurelio balduino de souza and I'm currently 22 years old. I'm a Brazilian with a strong interest in areas such as data science, artificial intelligence, machine learning and deep learning. I'm currently in my last year of university, where I'm looking for more knowledge to enter the job market efficiently.
+Hello, my name is marco aurelio balduino de souza. I'm a Brazilian with a strong interest in areas such as data science, artificial intelligence, machine learning and deep learning. I'm currently in my last year of university, where I'm looking for more knowledge to enter the job market efficiently.
 
 ### Contact
 
