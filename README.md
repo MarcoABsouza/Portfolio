@@ -1,5 +1,7 @@
 # Portfolio
 
+#### Technical Skills: Python, Jupyter Notebook, Git, Github, SQL, Numpy, Pandas, Matplotlib, Pytorch, Scikit-learn, Tensorflow, NLTK, Spacy, Streamlit
+
 ### Education
 
  - Bachelor, Computer Science | Universidade Federal de Catalão
