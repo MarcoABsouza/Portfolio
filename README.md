@@ -33,3 +33,10 @@ This project consists of creating a database for an e-commerce system using MySQ
 **English (Intermediate)**
 **Portugues (Native)**
 
+### About Me
+
+Hello, my name is marco aurelio balduino de souza and I'm currently 22 years old. I'm a Brazilian with a strong interest in areas such as data science, artificial intelligence, machine learning and deep learning. I'm currently in my last year of university, where I'm looking for more knowledge to enter the job market efficiently.
+
+### Contact
+
+[Email](mabdsouza@outlook.com)
