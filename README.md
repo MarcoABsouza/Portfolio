@@ -8,3 +8,6 @@
  - Course, Fundamentals of Artificial Intelligence | Digital Innovation One
 ### Work Experience
 **Natural Language Processing techniques applied to legal texts to support judicial decision-making (August 2023 - Present)**
+- The aim is to develop advanced algorithms for the automatic summarization of multiple brazilian legal texts.
+- The benefits of this project are the automation of complex cognitive tasks in the legal field and a better understanding and application of Brazilian legislation, which can have an impact on the modernization of the Brazilian legal system, making it more agile to analyse legal documents and thus allowing greater access to legal information for all.
+- The tools used in the research are: Python, numpy, pandas, lang-chain, spacy, nltk, scikit-learn, tensor-flow, pytorch, matplotlib.
